@@ -1,6 +1,6 @@
 <?php
 
-namespace Zendrop\Data\Exceptions;
+namespace Underwear\Data\Exceptions;
 
 class ObjectInstantiatingException extends DataException
 {

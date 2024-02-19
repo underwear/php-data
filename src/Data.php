@@ -1,13 +1,13 @@
 <?php
 
-namespace Zendrop\Data;
+namespace Underwear\Data;
 
 use Illuminate\Support\Str;
-use Zendrop\Data\Exceptions\InvalidValueException;
-use Zendrop\Data\Exceptions\ParameterNotFoundException;
-use Zendrop\Data\Parsers\ArrayParser;
-use Zendrop\Data\Parsers\GenericParser;
-use Zendrop\Data\Parsers\ObjectParser;
+use Underwear\Data\Exceptions\InvalidValueException;
+use Underwear\Data\Exceptions\ParameterNotFoundException;
+use Underwear\Data\Parsers\ArrayParser;
+use Underwear\Data\Parsers\GenericParser;
+use Underwear\Data\Parsers\ObjectParser;
 
 abstract class Data
 {

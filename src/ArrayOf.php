@@ -1,6 +1,6 @@
 <?php
 
-namespace Zendrop\Data;
+namespace Underwear\Data;
 
 #[\Attribute(\Attribute::TARGET_PARAMETER)]
 class ArrayOf

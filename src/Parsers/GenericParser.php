@@ -1,9 +1,9 @@
 <?php
 
-namespace Zendrop\Data\Parsers;
+namespace Underwear\Data\Parsers;
 
-use Zendrop\Data\ParameterType;
-use Zendrop\Data\ParserInterface;
+use Underwear\Data\ParameterType;
+use Underwear\Data\ParserInterface;
 
 class GenericParser implements ParserInterface
 {

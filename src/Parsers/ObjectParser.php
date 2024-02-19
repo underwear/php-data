@@ -1,11 +1,11 @@
 <?php
 
-namespace Zendrop\Data\Parsers;
+namespace Underwear\Data\Parsers;
 
-use Zendrop\Data\Data;
-use Zendrop\Data\Exceptions\ObjectInstantiatingException;
-use Zendrop\Data\ParameterType;
-use Zendrop\Data\ParserInterface;
+use Underwear\Data\Data;
+use Underwear\Data\Exceptions\ObjectInstantiatingException;
+use Underwear\Data\ParameterType;
+use Underwear\Data\ParserInterface;
 
 class ObjectParser implements ParserInterface
 {

@@ -1,8 +1,8 @@
 {
-    "name": "zendrop/data",
+    "name": "underwear/data",
     "autoload": {
         "psr-4": {
-            "Zendrop\\Data\\": "src/"
+            "Underwear\\Data\\": "src/"
         }
     },
     "authors": [

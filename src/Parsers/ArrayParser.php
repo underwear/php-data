@@ -1,15 +1,15 @@
 <?php
 
-namespace Zendrop\Data\Parsers;
+namespace Underwear\Data\Parsers;
 
-use Zendrop\Data\ArrayOf;
-use Zendrop\Data\Data;
-use Zendrop\Data\Exceptions\InvalidArgumentException;
-use Zendrop\Data\Exceptions\InvalidAttributeException;
-use Zendrop\Data\Exceptions\InvalidValueException;
-use Zendrop\Data\Exceptions\UnsupportedValueArrayOfException;
-use Zendrop\Data\ParameterType;
-use Zendrop\Data\ParserInterface;
+use Underwear\Data\ArrayOf;
+use Underwear\Data\Data;
+use Underwear\Data\Exceptions\InvalidArgumentException;
+use Underwear\Data\Exceptions\InvalidAttributeException;
+use Underwear\Data\Exceptions\InvalidValueException;
+use Underwear\Data\Exceptions\UnsupportedValueArrayOfException;
+use Underwear\Data\ParameterType;
+use Underwear\Data\ParserInterface;
 
 class ArrayParser implements ParserInterface
 {
